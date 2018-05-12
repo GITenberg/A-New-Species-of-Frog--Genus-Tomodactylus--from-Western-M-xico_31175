@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '35041'
     url: http://www.gutenberg.org/2009/agents/35041
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31175#A-New-Species-of-Frog--Genus-Tomodactylus--from-Western-M-xico
 gutenberg_bookshelf:
 - Animals-Wild-Reptiles and Amphibians
 - Animal
