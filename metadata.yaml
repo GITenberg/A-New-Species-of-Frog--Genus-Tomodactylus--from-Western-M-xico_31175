@@ -1,0 +1,27 @@
+_repo: A-New-Species-of-Frog--Genus-Tomodactylus--from-Western-M-xico_31175
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Webb, Robert G.
+    gutenberg_agent_id: '35041'
+    url: http://www.gutenberg.org/2009/agents/35041
+description: ''
+gutenberg_bookshelf:
+- Animals-Wild-Reptiles and Amphibians
+- Animal
+gutenberg_issued: '2010-02-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31175'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QH'
+- !lcsh 'Frogs'
+title: A New Species of Frog (Genus Tomodactylus) from Western México
+url: http://www.gutenberg.org/ebooks/31175
